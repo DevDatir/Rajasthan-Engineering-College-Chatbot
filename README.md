@@ -6,7 +6,8 @@ This project is a chatbot designed to provide detailed information about enginee
 # My Project
 
 Here is an image of the project:
-![Project Screenshot](C:\Users\Dev2005\DataScience_py\Rajasthan_chatbot\ss1.png)
+![Project Screenshot](ss1.png)
+![Project Screenshot](ss2.png)
 
 
 ## Features
